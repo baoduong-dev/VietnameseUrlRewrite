@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>BaoDuong-Dev</Authors>
+    <Company>S-MarkWork</Company>
+    <Description>VietnameseUrlRewrite rewrite VietNamese String to Url for SEO.</Description>
+    <PackageProjectUrl>https://github.com/baoduong-dev/VietnameseUrlRewrite</PackageProjectUrl>
+    <PackageTags>Url, SEO, VietNamese Url, Rewrite Url</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>BaoDuong-Dev</Copyright>
+    <PackageIcon>Icon SMW round 3244.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Dropbox\Kinh Doanh\SMarkWork\Icon SMW round 3244.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
