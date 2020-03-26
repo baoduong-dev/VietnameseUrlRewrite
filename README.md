@@ -23,3 +23,7 @@ Use .net Standard should be suitable for all projects .Net Framework and .Net Co
 ## Authors
 
 * **Bảo Dương** - *Initial work* - [baoduong-dev](https://github.com/baoduong-dev)
+
+## License
+
+Licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
