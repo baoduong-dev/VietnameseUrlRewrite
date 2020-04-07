@@ -15,6 +15,11 @@ public IActionResult Index()
 ## How do I use it?
 
 1. Install ["VietnameseUrlRewrite"](https://www.nuget.org/packages/VietnameseUrlRewrite) via [NuGet](http://nuget.org)
+
+```
+Install-Package VietnameseUrlRewrite -Version 1.0.1
+```
+
 2. In your controller code or Razor page, call **UrlWrite.Url(string)** if you want to convert string to url.
 
 ## Using .Net Standard 2.0
