@@ -9,6 +9,7 @@ public IActionResult Index()
     string a = "Đây là Url bài viết số n";
     string b = UrlWrite.Url(a);
     return Content(b);
+    /// Result: "day-la-url-bai-viet-so-n"
 }
 ```
 
