@@ -1,5 +1,5 @@
 # VietnameseUrlRewrite
-Vietnamese String rewrite to Url for SEO
+Vietnamese String rewrite to Friendly-Url for SEO
 
 ## Example
 UrlWrite.Url(**string**);
